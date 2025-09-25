@@ -53,6 +53,19 @@ status-website:
     incidentHistory: 历史事件
     responseTime: 响应时间
     uptime: 正常运行时间
+    liveStatus: 实时状态
+    overallUptime: 总体正常率
+    averageResponseTime: 平均响应时间
+    operational: 正常
+    down: 故障
+    activeIncidents: 活动事件
+    openedAt: 开始时间
+    withPosts: 相关帖子数
+    report: 故障报告
+    all: 全部
+    status: 状态
+    # 你可以继续补充页面上出现的英文词条
+  defaultLanguage: zh-CN
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
