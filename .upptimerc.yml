@@ -3,56 +3,34 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: yuanshen-image
-    url: http://yuanshen-image.909333.xyz/
-
-  - name: blackbox
-    url: http://blackbox.655353.xyz/
-
-  - name: github反代
-    url: http://github.909333.xyz/
-
-  - name: aws代理
-    url: http://52.53.225.188:8848/panel/
-
-  - name: ulearnling-pro
-    url: http://ulearnling-pro.ai4good.dpdns.org/
-
-  - name: 中国象棋
-    url: http://chinese-chess.655353.xyz/
-
-  - name: 谜题小游戏
-    url: http://qushizitiaozhan.655353.xyz/
-
-  - name: 隐私政策
-    url: http://blackbox-privacy-policy.655353.xyz/privacy-policy
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
+  - name: IPv6 test
+    url: forwardemail.net
+    port: 80
+    check: "tcp-ping"
+    ipv6: true
 
 status-website:
-  # 你已启用自定义域名，因此使用 cname：
-  cname: hawkeye.909333.xyz
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Hawkeye Surveillance
-  # 简介
-  introTitle: "鹰眼监控"
-  introMessage: >-
-    欢迎来到鹰眼监控面板！我们致力于实时监测关键服务的可用性与性能，确保您获得最佳体验。
-    通过本面板，您可以随时查看各服务的当前状态、历史记录及响应时间图表。感谢您的信任与支持！
-
-  # 导航改为中文
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: 状态
+    - title: Status
       href: /
-    - title: GitHub 仓库
+    - title: GitHub
       href: https://github.com/$OWNER/$REPO
-  i18n:
-    allSystemsOperational: 所有系统运行正常
-    partialOutage: 部分系统故障
-    majorOutage: 重大故障
-    degradedPerformance: 性能下降
-    incidentHistory: 历史事件
-    responseTime: 响应时间
-    uptime: 正常运行时间
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
