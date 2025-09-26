@@ -18,6 +18,9 @@ sites:
   - name: ulearnling-pro
     url: http://ulearnling-pro.ai4good.dpdns.org/
 
+  - name: New API
+    url: http://veloera.ai4good.dpdns.org/
+
   - name: 中国象棋
     url: http://chinese-chess.655353.xyz/
 
@@ -64,7 +67,6 @@ status-website:
     report: 故障报告
     all: 全部
     status: 状态
-    # 你可以继续补充页面上出现的英文词条
   defaultLanguage: zh-CN
 
 # Upptime also supports notifications, assigning issues, and more
