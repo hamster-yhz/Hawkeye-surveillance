@@ -94,18 +94,20 @@
     "url": "http://veloera.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/veloera.ai4good.dpdns.org.ico",
     "slug": "new-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1574,
-    "timeDay": 4850,
-    "timeWeek": 1574,
-    "timeMonth": 1574,
-    "timeYear": 1574,
-    "dailyMinutesDown": {}
+    "time": 1357,
+    "timeDay": 2670,
+    "timeWeek": 1357,
+    "timeMonth": 1357,
+    "timeYear": 1357,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "中国象棋",
@@ -119,11 +121,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 208,
+    "timeDay": 209,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "谜题小游戏",
@@ -137,11 +141,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 208,
+    "timeDay": 209,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "隐私政策",
@@ -155,10 +161,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 208,
+    "timeDay": 209,
     "timeWeek": 207,
     "timeMonth": 207,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   }
 ]
