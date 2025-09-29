@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 186,
+    "timeDay": 0,
     "timeWeek": 197,
     "timeMonth": 197,
     "timeYear": 197,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 128,
+    "timeDay": 0,
     "timeWeek": 225,
     "timeMonth": 225,
     "timeYear": 225,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 382,
+    "timeDay": 444,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 148,
-    "timeDay": 187,
+    "timeDay": 0,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
@@ -83,7 +83,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1811,
-    "timeDay": 2487,
+    "timeDay": 571,
     "timeWeek": 1811,
     "timeMonth": 1811,
     "timeYear": 1811,
@@ -94,18 +94,20 @@
     "url": "http://veloera.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/veloera.ai4good.dpdns.org.ico",
     "slug": "new-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1031,
-    "timeDay": 1266,
+    "timeDay": 669,
     "timeWeek": 1031,
     "timeMonth": 1031,
     "timeYear": 1031,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "中国象棋",
@@ -114,16 +116,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 209,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 212,
+    "timeDay": 220,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "谜题小游戏",
@@ -132,16 +136,18 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 209,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 212,
+    "timeDay": 220,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "隐私政策",
@@ -150,15 +156,17 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 209,
-    "timeWeek": 210,
-    "timeMonth": 210,
-    "timeYear": 210,
-    "dailyMinutesDown": {}
+    "time": 212,
+    "timeDay": 220,
+    "timeWeek": 212,
+    "timeMonth": 212,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   }
 ]
