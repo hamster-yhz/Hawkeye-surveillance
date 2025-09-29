@@ -96,7 +96,7 @@
     "slug": "new-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,9 +105,7 @@
     "timeWeek": 1211,
     "timeMonth": 1211,
     "timeYear": 1211,
-    "dailyMinutesDown": {
-      "2025-09-29": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "中国象棋",
@@ -116,18 +114,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 212,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2025-09-29": 0
-    }
+    "time": 208,
+    "timeDay": 214,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -136,18 +132,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 212,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2025-09-29": 0
-    }
+    "time": 208,
+    "timeDay": 214,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -156,17 +150,15 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 212,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
-    "dailyMinutesDown": {
-      "2025-09-29": 0
-    }
+    "time": 208,
+    "timeDay": 214,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
+    "dailyMinutesDown": {}
   }
 ]
