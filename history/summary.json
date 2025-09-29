@@ -76,18 +76,20 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1914,
     "timeDay": 4402,
     "timeWeek": 1914,
     "timeMonth": 1914,
     "timeYear": 1914,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "New API",
@@ -113,17 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinese-chess.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 201,
+    "timeDay": 200,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "谜题小游戏",
@@ -131,17 +135,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qushizitiaozhan.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 201,
+    "timeDay": 200,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   },
   {
     "name": "隐私政策",
@@ -149,16 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackbox-privacy-policy.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 209,
-    "timeDay": 201,
+    "timeDay": 200,
     "timeWeek": 209,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-29": 0
+    }
   }
 ]
