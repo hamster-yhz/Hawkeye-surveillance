@@ -6,6 +6,9 @@ sites:
   - name: yuanshen-image
     url: http://yuanshen-image.909333.xyz/
 
+  - name: yuanshen-mail
+    url: https://mail.909333.xyz/
+
   - name: blackbox
     url: http://blackbox.655353.xyz/
 
@@ -67,7 +70,6 @@ status-website:
     report: 故障报告
     all: 全部
     status: 状态
-  defaultLanguage: zh-CN
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
