@@ -58,20 +58,18 @@
     "url": "http://github.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/github.909333.xyz.ico",
     "slug": "github",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 429,
-    "timeDay": 416,
-    "timeWeek": 434,
-    "timeMonth": 429,
-    "timeYear": 429,
-    "dailyMinutesDown": {
-      "2025-10-03": 0
-    }
+    "time": 430,
+    "timeDay": 430,
+    "timeWeek": 435,
+    "timeMonth": 430,
+    "timeYear": 430,
+    "dailyMinutesDown": {}
   },
   {
     "name": "aws代理",
@@ -134,18 +132,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 268,
+    "timeDay": 269,
     "timeWeek": 230,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-10-03": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -154,18 +150,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 268,
+    "timeDay": 269,
     "timeWeek": 230,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-10-03": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -174,17 +168,15 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 268,
+    "timeDay": 269,
     "timeWeek": 230,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {
-      "2025-10-03": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
