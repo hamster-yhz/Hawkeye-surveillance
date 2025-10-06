@@ -60,7 +60,7 @@
     "slug": "github",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,9 +69,7 @@
     "timeWeek": 453,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2025-10-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "aws代理",
@@ -134,7 +132,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,9 +141,7 @@
     "timeWeek": 229,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-10-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -154,7 +150,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,9 +159,7 @@
     "timeWeek": 229,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-10-06": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -174,7 +168,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,8 +177,6 @@
     "timeWeek": 229,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-10-06": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
