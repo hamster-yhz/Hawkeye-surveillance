@@ -114,7 +114,7 @@
     "slug": "new-api",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,9 +123,7 @@
     "timeWeek": 4025,
     "timeMonth": 2304,
     "timeYear": 2304,
-    "dailyMinutesDown": {
-      "2025-10-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "中国象棋",
@@ -134,7 +132,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,9 +141,7 @@
     "timeWeek": 216,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2025-10-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -154,7 +150,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,9 +159,7 @@
     "timeWeek": 216,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2025-10-14": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -174,7 +168,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -183,8 +177,6 @@
     "timeWeek": 216,
     "timeMonth": 219,
     "timeYear": 219,
-    "dailyMinutesDown": {
-      "2025-10-14": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
