@@ -22,18 +22,20 @@
     "url": "https://mail.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.909333.xyz.ico",
     "slug": "yuanshen-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 481,
-    "timeWeek": 360,
-    "timeMonth": 581,
-    "timeYear": 581,
-    "dailyMinutesDown": {}
+    "time": 571,
+    "timeDay": 423,
+    "timeWeek": 361,
+    "timeMonth": 571,
+    "timeYear": 571,
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "blackbox",
@@ -141,7 +143,9 @@
     "timeWeek": 228,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "谜题小游戏",
@@ -159,7 +163,9 @@
     "timeWeek": 228,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "隐私政策",
@@ -177,6 +183,8 @@
     "timeWeek": 228,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   }
 ]
