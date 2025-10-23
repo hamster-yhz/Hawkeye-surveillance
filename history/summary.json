@@ -24,7 +24,7 @@
     "slug": "yuanshen-mail",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,9 +33,7 @@
     "timeWeek": 398,
     "timeMonth": 556,
     "timeYear": 556,
-    "dailyMinutesDown": {
-      "2025-10-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blackbox",
@@ -134,18 +132,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 222,
+    "timeDay": 223,
     "timeWeek": 228,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-10-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -154,18 +150,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 222,
+    "timeDay": 223,
     "timeWeek": 228,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-10-23": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -174,17 +168,15 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 222,
+    "timeDay": 223,
     "timeWeek": 228,
     "timeMonth": 221,
     "timeYear": 221,
-    "dailyMinutesDown": {
-      "2025-10-23": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
