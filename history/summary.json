@@ -94,20 +94,18 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2740,
-    "timeDay": 205,
-    "timeWeek": 2896,
-    "timeMonth": 2629,
-    "timeYear": 2740,
-    "dailyMinutesDown": {
-      "2025-11-10": 0
-    }
+    "time": 2768,
+    "timeDay": 2333,
+    "timeWeek": 3070,
+    "timeMonth": 2680,
+    "timeYear": 2768,
+    "dailyMinutesDown": {}
   },
   {
     "name": "New API",
@@ -134,18 +132,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 209,
+    "timeDay": 212,
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-10": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -154,18 +150,16 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 209,
+    "timeDay": 212,
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-10": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -174,17 +168,15 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
-    "timeDay": 209,
+    "timeDay": 212,
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-10": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
