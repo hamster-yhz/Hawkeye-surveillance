@@ -94,9 +94,9 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 2896,
     "timeMonth": 2629,
     "timeYear": 2740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "New API",
@@ -132,7 +134,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +143,9 @@
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "谜题小游戏",
@@ -150,7 +154,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,7 +163,9 @@
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "隐私政策",
@@ -168,7 +174,7 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -177,6 +183,8 @@
     "timeWeek": 222,
     "timeMonth": 221,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   }
 ]
