@@ -4,20 +4,18 @@
     "url": "http://yuanshen-image.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/yuanshen-image.909333.xyz.ico",
     "slug": "yuanshen-image",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 234,
-    "timeWeek": 236,
-    "timeMonth": 229,
-    "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-12": 1
-    }
+    "time": 223,
+    "timeDay": 259,
+    "timeWeek": 242,
+    "timeMonth": 231,
+    "timeYear": 223,
+    "dailyMinutesDown": {}
   },
   {
     "name": "yuanshen-mail",
@@ -134,8 +132,8 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
@@ -143,9 +141,7 @@
     "timeWeek": 222,
     "timeMonth": 223,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-12": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -154,8 +150,8 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
@@ -163,9 +159,7 @@
     "timeWeek": 222,
     "timeMonth": 223,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-12": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -174,8 +168,8 @@
     "slug": "",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 222,
@@ -183,8 +177,6 @@
     "timeWeek": 222,
     "timeMonth": 223,
     "timeYear": 222,
-    "dailyMinutesDown": {
-      "2025-11-12": 1
-    }
+    "dailyMinutesDown": {}
   }
 ]
