@@ -100,17 +100,17 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "94.69%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.90%",
-    "time": 2699,
-    "timeDay": 2607,
-    "timeWeek": 2154,
-    "timeMonth": 2283,
-    "timeYear": 2699,
+    "time": 2668,
+    "timeDay": 2271,
+    "timeWeek": 2018,
+    "timeMonth": 2235,
+    "timeYear": 2668,
     "dailyMinutesDown": {
       "2025-11-18": 76
     }
