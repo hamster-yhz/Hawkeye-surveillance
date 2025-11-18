@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yuanshen-image.909333.xyz.ico",
     "slug": "yuanshen-image",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.81%",
+    "uptimeDay": "89.75%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.81%",
     "time": 229,
     "timeDay": 217,
     "timeWeek": 261,
     "timeMonth": 236,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-11-18": 134
+      "2025-11-18": 148
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mail.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.909333.xyz.ico",
     "slug": "yuanshen-mail",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.80%",
-    "time": 472,
-    "timeDay": 256,
-    "timeWeek": 346,
-    "timeMonth": 403,
-    "timeYear": 472,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "89.77%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.78%",
+    "time": 474,
+    "timeDay": 301,
+    "timeWeek": 364,
+    "timeMonth": 407,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-11-18": 134
+      "2025-11-18": 148
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackbox.655353.xyz.ico",
     "slug": "blackbox",
     "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "90.73%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.81%",
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.81%",
     "time": 260,
     "timeDay": 185,
     "timeWeek": 232,
     "timeMonth": 224,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2025-11-18": 134
+      "2025-11-18": 148
     }
   },
   {
@@ -100,17 +100,17 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
     "uptimeDay": "94.69%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.90%",
-    "time": 2695,
-    "timeDay": 2481,
-    "timeWeek": 2025,
-    "timeMonth": 2254,
-    "timeYear": 2695,
+    "time": 2731,
+    "timeDay": 3057,
+    "timeWeek": 2303,
+    "timeMonth": 2332,
+    "timeYear": 2731,
     "dailyMinutesDown": {
       "2025-11-18": 76
     }
@@ -139,18 +139,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinese-chess.655353.xyz.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "66.89%",
-    "uptimeWeek": "95.27%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.33%",
+    "uptimeDay": "63.96%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "99.33%",
     "time": 223,
-    "timeDay": 227,
+    "timeDay": 229,
     "timeWeek": 228,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-11-18": 478
+      "2025-11-18": 520
     }
   },
   {
@@ -159,18 +159,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qushizitiaozhan.655353.xyz.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "66.77%",
-    "uptimeWeek": "95.25%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.39%",
+    "uptime": "99.33%",
+    "uptimeDay": "63.91%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.33%",
     "time": 223,
-    "timeDay": 227,
+    "timeDay": 229,
     "timeWeek": 228,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-11-18": 478
+      "2025-11-18": 521
     }
   },
   {
@@ -179,18 +179,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackbox-privacy-policy.655353.xyz.ico",
     "slug": "",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "66.67%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.33%",
+    "uptimeDay": "63.87%",
+    "uptimeWeek": "94.84%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "99.33%",
     "time": 223,
-    "timeDay": 227,
+    "timeDay": 229,
     "timeWeek": 228,
     "timeMonth": 223,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2025-11-18": 481
+      "2025-11-18": 521
     }
   }
 ]
