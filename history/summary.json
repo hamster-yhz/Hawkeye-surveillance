@@ -4,54 +4,60 @@
     "url": "http://yuanshen-image.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/yuanshen-image.909333.xyz.ico",
     "slug": "yuanshen-image",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 452,
-    "timeWeek": 317,
-    "timeMonth": 246,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 232,
+    "timeDay": 289,
+    "timeWeek": 296,
+    "timeMonth": 243,
+    "timeYear": 232,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "yuanshen-mail",
     "url": "https://mail.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/mail.909333.xyz.ico",
     "slug": "yuanshen-mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 168,
-    "timeWeek": 398,
-    "timeMonth": 421,
-    "timeYear": 491,
-    "dailyMinutesDown": {}
+    "time": 485,
+    "timeDay": 164,
+    "timeWeek": 368,
+    "timeMonth": 414,
+    "timeYear": 485,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "blackbox",
     "url": "http://blackbox.655353.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/blackbox.655353.xyz.ico",
     "slug": "blackbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 271,
-    "timeDay": 428,
-    "timeWeek": 300,
-    "timeMonth": 239,
-    "timeYear": 271,
-    "dailyMinutesDown": {}
+    "time": 268,
+    "timeDay": 275,
+    "timeWeek": 278,
+    "timeMonth": 235,
+    "timeYear": 268,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "github反代",
@@ -94,18 +100,20 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2677,
-    "timeDay": 547,
-    "timeWeek": 1613,
-    "timeMonth": 2181,
-    "timeYear": 2677,
-    "dailyMinutesDown": {}
+    "time": 2643,
+    "timeDay": 401,
+    "timeWeek": 1462,
+    "timeMonth": 2129,
+    "timeYear": 2643,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "New API",
@@ -130,10 +138,10 @@
     "url": "http://chinese-chess.655353.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/chinese-chess.655353.xyz.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
@@ -141,42 +149,48 @@
     "timeWeek": 228,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "谜题小游戏",
     "url": "http://qushizitiaozhan.655353.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/qushizitiaozhan.655353.xyz.ico",
     "slug": "",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 232,
     "timeWeek": 228,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 4
+    }
   },
   {
     "name": "隐私政策",
     "url": "http://blackbox-privacy-policy.655353.xyz/privacy-policy",
     "icon": "https://icons.duckduckgo.com/ip3/blackbox-privacy-policy.655353.xyz.ico",
     "slug": "",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 223,
     "timeDay": 232,
     "timeWeek": 228,
     "timeMonth": 223,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 5
+    }
   }
 ]
