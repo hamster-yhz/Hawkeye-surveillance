@@ -4,17 +4,17 @@
     "url": "http://yuanshen-image.909333.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/yuanshen-image.909333.xyz.ico",
     "slug": "yuanshen-image",
-    "status": "down",
+    "status": "up",
     "uptime": "99.80%",
     "uptimeDay": "89.23%",
     "uptimeWeek": "98.46%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.80%",
-    "time": 229,
-    "timeDay": 217,
-    "timeWeek": 261,
-    "timeMonth": 236,
-    "timeYear": 229,
+    "time": 230,
+    "timeDay": 225,
+    "timeWeek": 262,
+    "timeMonth": 237,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2025-11-18": 155
     }
