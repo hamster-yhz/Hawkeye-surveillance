@@ -82,7 +82,7 @@
     "url": "http://52.53.225.188:8848/panel/",
     "icon": "https://icons.duckduckgo.com/ip3/52.53.225.188.ico",
     "slug": "aws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -160,8 +160,8 @@
     "slug": "",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.78%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "94.77%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.39%",
     "time": 222,
@@ -170,6 +170,7 @@
     "timeMonth": 223,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-11-24": 1,
       "2025-11-18": 527
     }
   },
@@ -180,8 +181,8 @@
     "slug": "",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.78%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "94.77%",
     "uptimeMonth": "98.80%",
     "uptimeYear": "99.39%",
     "time": 222,
@@ -190,6 +191,7 @@
     "timeMonth": 223,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-11-24": 1,
       "2025-11-18": 527
     }
   }
