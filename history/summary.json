@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/yuanshen-image.909333.xyz.ico",
     "slug": "yuanshen-image",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "99.84%",
-    "time": 242,
-    "timeDay": 188,
-    "timeWeek": 340,
-    "timeMonth": 269,
-    "timeYear": 242,
+    "uptimeYear": "99.85%",
+    "time": 240,
+    "timeDay": 174,
+    "timeWeek": 318,
+    "timeMonth": 266,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2025-11-18": 155
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.84%",
-    "time": 457,
-    "timeDay": 408,
-    "timeWeek": 372,
-    "timeMonth": 390,
-    "timeYear": 457,
+    "time": 455,
+    "timeDay": 362,
+    "timeWeek": 365,
+    "timeMonth": 388,
+    "timeYear": 455,
     "dailyMinutesDown": {
       "2025-11-18": 148
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.85%",
-    "time": 252,
-    "timeDay": 219,
-    "timeWeek": 203,
-    "timeMonth": 221,
-    "timeYear": 252,
+    "time": 251,
+    "timeDay": 190,
+    "timeWeek": 198,
+    "timeMonth": 219,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2025-11-18": 148
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.92%",
-    "time": 2696,
-    "timeDay": 314,
-    "timeWeek": 3118,
-    "timeMonth": 2669,
-    "timeYear": 2696,
+    "time": 2711,
+    "timeDay": 2185,
+    "timeWeek": 3223,
+    "timeMonth": 2703,
+    "timeYear": 2711,
     "dailyMinutesDown": {
       "2025-11-18": 76
     }
@@ -128,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1927,
-    "timeDay": 990,
-    "timeWeek": 1154,
-    "timeMonth": 1763,
-    "timeYear": 1927,
+    "time": 1910,
+    "timeDay": 804,
+    "timeWeek": 1087,
+    "timeMonth": 1723,
+    "timeYear": 1910,
     "dailyMinutesDown": {}
   },
   {
