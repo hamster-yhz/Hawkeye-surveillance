@@ -102,9 +102,9 @@
     "url": "http://ulearnling-pro.ai4good.dpdns.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -114,6 +114,7 @@
     "timeMonth": 2077,
     "timeYear": 2484,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-18": 76
     }
   },
@@ -142,7 +143,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -152,6 +153,7 @@
     "timeMonth": 190,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-24": 58,
       "2025-11-18": 527
     }
@@ -163,7 +165,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -173,6 +175,7 @@
     "timeMonth": 190,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-24": 58,
       "2025-11-18": 527
     }
@@ -184,7 +187,7 @@
     "slug": "",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
@@ -194,6 +197,7 @@
     "timeMonth": 190,
     "timeYear": 213,
     "dailyMinutesDown": {
+      "2025-12-26": 0,
       "2025-11-24": 58,
       "2025-11-18": 527
     }
