@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mail.909333.xyz.ico",
     "slug": "yuanshen-mail",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 461,
     "timeDay": 464,
     "timeWeek": 557,
     "timeMonth": 539,
     "timeYear": 461,
-    "dailyMinutesDown": {
-      "2025-11-18": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "blackbox",
@@ -45,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackbox.655353.xyz.ico",
     "slug": "blackbox",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "100.00%",
     "time": 216,
     "timeDay": 159,
     "timeWeek": 205,
     "timeMonth": 202,
     "timeYear": 216,
-    "dailyMinutesDown": {
-      "2025-11-18": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "github反代",
@@ -83,19 +79,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/52.53.225.188.ico",
     "slug": "aws",
     "status": "down",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 130,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 130,
-    "dailyMinutesDown": {
-      "2025-11-24": 58
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ulearnling-pro",
@@ -103,19 +97,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "100.00%",
     "time": 2169,
     "timeDay": 551,
     "timeWeek": 389,
     "timeMonth": 1154,
     "timeYear": 2169,
-    "dailyMinutesDown": {
-      "2025-11-18": 76
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "New API",
@@ -141,20 +133,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinese-chess.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 181,
+    "timeDay": 176,
     "timeWeek": 187,
     "timeMonth": 184,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2025-11-24": 58,
-      "2025-11-18": 527
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "谜题小游戏",
@@ -162,20 +151,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/qushizitiaozhan.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 181,
-    "timeWeek": 187,
+    "timeDay": 176,
+    "timeWeek": 186,
     "timeMonth": 184,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2025-11-24": 58,
-      "2025-11-18": 527
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "隐私政策",
@@ -183,19 +169,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackbox-privacy-policy.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 181,
-    "timeWeek": 187,
+    "timeDay": 176,
+    "timeWeek": 186,
     "timeMonth": 184,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2025-11-24": 58,
-      "2025-11-18": 527
-    }
+    "dailyMinutesDown": {}
   }
 ]
