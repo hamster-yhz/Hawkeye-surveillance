@@ -141,19 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/chinese-chess.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.94%",
     "time": 217,
-    "timeDay": 160,
+    "timeDay": 153,
     "timeWeek": 141,
     "timeMonth": 173,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-24": 58,
-      "2025-11-18": 527
+      "2025-11-18": 155,
+      "2025-11-24": 58
     }
   },
   {
@@ -162,19 +162,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qushizitiaozhan.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.94%",
     "time": 217,
-    "timeDay": 160,
+    "timeDay": 153,
     "timeWeek": 141,
     "timeMonth": 173,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-24": 58,
-      "2025-11-18": 527
+      "2025-11-18": 155,
+      "2025-11-24": 58
     }
   },
   {
@@ -183,19 +183,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blackbox-privacy-policy.655353.xyz.ico",
     "slug": "",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeYear": "99.94%",
     "time": 217,
-    "timeDay": 160,
+    "timeDay": 153,
     "timeWeek": 141,
     "timeMonth": 173,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-11-24": 58,
-      "2025-11-18": 527
+      "2025-11-18": 155,
+      "2025-11-24": 58
     }
   }
 ]
