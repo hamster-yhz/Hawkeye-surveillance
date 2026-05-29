@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 224,
-    "timeDay": 0,
-    "timeWeek": 208,
+    "time": 223,
+    "timeDay": 154,
+    "timeWeek": 203,
     "timeMonth": 191,
-    "timeYear": 224,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-11-18": 155
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 463,
-    "timeDay": 0,
-    "timeWeek": 525,
-    "timeMonth": 479,
+    "timeDay": 430,
+    "timeWeek": 499,
+    "timeMonth": 481,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2025-11-18": 148
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 210,
-    "timeDay": 0,
-    "timeWeek": 177,
+    "timeDay": 165,
+    "timeWeek": 183,
     "timeMonth": 163,
     "timeYear": 210,
     "dailyMinutesDown": {
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2217,
-    "timeDay": 0,
-    "timeWeek": 1096,
-    "timeMonth": 2712,
-    "timeYear": 2217,
+    "time": 2210,
+    "timeDay": 232,
+    "timeWeek": 1094,
+    "timeMonth": 2714,
+    "timeYear": 2210,
     "dailyMinutesDown": {
       "2025-11-18": 76
     }
@@ -131,7 +131,7 @@
     "time": 1698,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1683,
+    "timeMonth": 1763,
     "timeYear": 1698,
     "dailyMinutesDown": {}
   },
@@ -146,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 188,
-    "timeWeek": 188,
-    "timeMonth": 188,
-    "timeYear": 188,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {}
   },
   {
@@ -159,18 +159,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/qushizitiaozhan.655353.xyz.ico",
     "slug": "谜题小游戏",
     "status": "down",
-    "uptime": "44.04%",
-    "uptimeDay": "44.04%",
-    "uptimeWeek": "44.04%",
-    "uptimeMonth": "44.04%",
-    "uptimeYear": "44.04%",
-    "time": 57,
-    "timeDay": 57,
-    "timeWeek": 57,
-    "timeMonth": 57,
-    "timeYear": 57,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 63,
+    "timeDay": 63,
+    "timeWeek": 63,
+    "timeMonth": 63,
+    "timeYear": 63,
     "dailyMinutesDown": {
-      "2026-05-28": 0
+      "2026-05-29": 150,
+      "2026-05-28": 1032
     }
   },
   {
@@ -184,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 108,
-    "timeWeek": 108,
-    "timeMonth": 108,
-    "timeYear": 108,
+    "time": 159,
+    "timeDay": 159,
+    "timeWeek": 159,
+    "timeMonth": 159,
+    "timeYear": 159,
     "dailyMinutesDown": {}
   }
 ]
