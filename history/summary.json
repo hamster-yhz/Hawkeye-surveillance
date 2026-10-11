@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 229,
-    "timeDay": 230,
-    "timeWeek": 282,
-    "timeMonth": 288,
+    "time": 230,
+    "timeDay": 246,
+    "timeWeek": 294,
+    "timeMonth": 286,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-11-18": 155
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 482,
-    "timeDay": 530,
-    "timeWeek": 571,
-    "timeMonth": 543,
-    "timeYear": 482,
+    "timeDay": 494,
+    "timeWeek": 586,
+    "timeMonth": 554,
+    "timeYear": 481,
     "dailyMinutesDown": {
       "2025-11-18": 148
     }
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 209,
-    "timeDay": 185,
-    "timeWeek": 245,
-    "timeMonth": 251,
+    "time": 210,
+    "timeDay": 240,
+    "timeWeek": 256,
+    "timeMonth": 250,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-11-18": 148
@@ -92,7 +92,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 123,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2025-11-24": 58
     }
@@ -103,19 +103,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/ulearnling-pro.ai4good.dpdns.org.ico",
     "slug": "ulearnling-pro",
     "status": "down",
-    "uptime": "70.72%",
+    "uptime": "70.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "69.54%",
+    "uptimeYear": "69.27%",
     "time": 2074,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1997,
+    "timeYear": 1988,
     "dailyMinutesDown": {
       "2025-11-18": 76,
-      "2026-10-10": 213,
+      "2026-10-11": 186,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -244,7 +245,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1672,
+    "timeYear": 1677,
     "dailyMinutesDown": {}
   },
   {
@@ -259,9 +260,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 220,
-    "timeWeek": 308,
-    "timeMonth": 288,
+    "timeDay": 233,
+    "timeWeek": 323,
+    "timeMonth": 287,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -277,12 +278,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 104,
-    "timeWeek": 137,
-    "timeMonth": 147,
+    "timeDay": 105,
+    "timeWeek": 142,
+    "timeMonth": 145,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2026-10-10": 213,
+      "2026-10-11": 186,
+      "2026-10-10": 1440,
       "2026-10-09": 1440,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
@@ -432,9 +434,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 214,
-    "timeDay": 146,
-    "timeWeek": 268,
-    "timeMonth": 263,
+    "timeDay": 175,
+    "timeWeek": 261,
+    "timeMonth": 261,
     "timeYear": 214,
     "dailyMinutesDown": {}
   }
